@@ -1,0 +1,21 @@
+{
+    "bounds": {
+        "east": 103.939193487167,
+        "north": 1.31564497947693,
+        "south": 1.28903746604919,
+        "west": 103.904260396957
+    },
+    "contentType": "quantizedmesh",
+    "latLonBounds": {
+        "east": 103.939193487167,
+        "north": 1.31564497947693,
+        "south": 1.28903746604919,
+        "west": 103.904260396957
+    },
+    "maxzoom": 17,
+    "minzoom": 0,
+    "proj": 4326,
+    "tiletrans": "tms",
+    "type": "terrain",
+    "ziped": false
+}

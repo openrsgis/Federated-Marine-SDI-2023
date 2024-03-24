@@ -1,0 +1,31 @@
+{
+    "files": [
+        {
+            "name": "significant_height_of_combined_wind_waves_and_swell_20200101T000000Z.tif",
+            "time": "2023-08-15T12:00:00.000Z"
+        },
+        {
+            "name": "significant_height_of_combined_wind_waves_and_swell_20200101T010000Z.tif",
+            "time": "2023-08-20T13:00:00.000Z"
+        },
+        {
+            "name": "significant_height_of_combined_wind_waves_and_swell_20200101T020000Z.tif",
+            "time": "2023-08-25T14:00:00.000Z"
+        },
+        {
+            "name": "significant_height_of_combined_wind_waves_and_swell_20200101T030000Z.tif",
+            "time": "2023-08-30T15:00:00.000Z"
+        },
+        {
+            "name": "significant_height_of_combined_wind_waves_and_swell_20200101T040000Z.tif",
+            "time": "2023-09-05T16:00:00.000Z"
+        }
+    ],
+    "extent": {
+        "west": 103.6920359,
+        "east": 104.0120359,
+        "south": 1.1304753,
+        "north": 1.4504753
+    },
+    "NO_DATA": -32767
+}
