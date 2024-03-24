@@ -1,0 +1,19 @@
+server:
+  port: 20316
+  servlet:
+    context-path: /geoStreamCube
+
+spring:
+  datasource:
+    url: jdbc:postgresql://125.220.153.25:5432/FMSDI_Testbed19
+    username: postgres
+    password: ypfamily608
+    driverClassName: org.postgresql.Driver
+  jackson:
+    time-zone: GMT+8
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+        format_sql: true
+        ddl-auto: update #框架会自动帮我们创建或更新表结构
