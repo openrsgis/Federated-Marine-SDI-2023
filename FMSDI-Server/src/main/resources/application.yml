@@ -5,9 +5,9 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://125.220.153.25:5432/FMSDI_Testbed19
-    username: postgres
-    password: ypfamily608
+    url: jdbc:postgresql://XXX:XXXX/FMSDI_Testbed19
+    username: XXX
+    password: XXX
     driverClassName: org.postgresql.Driver
   jackson:
     time-zone: GMT+8
